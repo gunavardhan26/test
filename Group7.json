@@ -1,0 +1,524 @@
+[
+    {
+     "SemCode": "G7A-1",
+     "Roll": "2211CS010093",
+     "Name": "BURRA MYTHILI",
+     "EmailId": "2211CS010093@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-2",
+     "Roll": "2211CS010132",
+     "Name": "CHOUGANI POOJITHA",
+     "EmailId": "2211CS010132@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-3",
+     "Roll": "2211CS010133",
+     "Name": "D LAXMAN REDDY",
+     "EmailId": "2211CS010133@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-4",
+     "Roll": "2211CS010165",
+     "Name": "G.ABHIMANYU",
+     "EmailId": "2211CS010165@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-5",
+     "Roll": "2211CS010235",
+     "Name": "JANJAM SRAVANI",
+     "EmailId": "2211CS010235@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-6",
+     "Roll": "2211CS010237",
+     "Name": "JITHYA NIKETH ATLURI",
+     "EmailId": "2211CS010237@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-7",
+     "Roll": "2211CS010272",
+     "Name": "KANCHERLA ABYUDHAY",
+     "EmailId": "2211CS010272@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-8",
+     "Roll": "2211CS010273",
+     "Name": "KANDULA BHASKAR",
+     "EmailId": "2211CS010273@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-9",
+     "Roll": "2211CS010288",
+     "Name": "KATTA SHIVANI REDDY",
+     "EmailId": "2211CS010288@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-10",
+     "Roll": "2211CS010311",
+     "Name": "KOTHAKAPU SIRI",
+     "EmailId": "2211CS010311@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-11",
+     "Roll": "2211CS010313",
+     "Name": "KUDUDHULA KARTHIKEYA",
+     "EmailId": "2211CS010313@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-12",
+     "Roll": "2211CS010318",
+     "Name": "KUNTLAPATI SWATHI",
+     "EmailId": "2211CS010318@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-13",
+     "Roll": "2211CS010320",
+     "Name": "LAGISHETTY AKHILA",
+     "EmailId": "2211CS010320@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-14",
+     "Roll": "2211CS010322",
+     "Name": "P NARENDER",
+     "EmailId": "2211CS010322@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-15",
+     "Roll": "2211CS010331",
+     "Name": "M NEHA",
+     "EmailId": "2211CS010331@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-16",
+     "Roll": "2211CS010341",
+     "Name": "MADAS VAISHNAVI",
+     "EmailId": "2211CS010341@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-17",
+     "Roll": "2211CS010346",
+     "Name": "MAKKURI MANASA",
+     "EmailId": "2211CS010346@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-18",
+     "Roll": "2211CS010350",
+     "Name": "MALIGIREDDY SWATHI",
+     "EmailId": "2211CS010350@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-19",
+     "Roll": "2211CS010351",
+     "Name": "MALLAVAJJUIA PRADYUMNA SHARMA",
+     "EmailId": "2211CS010351@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-20",
+     "Roll": "2211CS010352",
+     "Name": "MALLELA VARSHITHA",
+     "EmailId": "2211CS010352@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-21",
+     "Roll": "2211CS010354",
+     "Name": "MANDA HIMABINDHU",
+     "EmailId": "2211CS010354@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-22",
+     "Roll": "2211CS010364",
+     "Name": "MARRI SADA REDDY",
+     "EmailId": "2211CS010364@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-23",
+     "Roll": "2211CS010387",
+     "Name": "MULLAPUDI SAİ SAKETH",
+     "EmailId": "2211CS010387@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-24",
+     "Roll": "2211CS010390",
+     "Name": "MUNIMANDA SNEHA",
+     "EmailId": "2211CS010390@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-25",
+     "Roll": "2211CS010398",
+     "Name": "N LASYA PRIYA",
+     "EmailId": "2211CS010398@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-26",
+     "Roll": "2211CS010428",
+     "Name": "P.SAI RAM",
+     "EmailId": "2211CS010428@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-27",
+     "Roll": "2211CS010436",
+     "Name": "PALLE AMULYA",
+     "EmailId": "2211CS010436@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-28",
+     "Roll": "2211CS010487",
+     "Name": "RACHAKONDA AKSHAY",
+     "EmailId": "2211CS010487@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-29",
+     "Roll": "2211CS010490",
+     "Name": "Rajaboina Adarsh",
+     "EmailId": "2211CS010490@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-30",
+     "Roll": "2211CS010495",
+     "Name": "RAPELLI SANJAY",
+     "EmailId": "2211CS010495@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-31",
+     "Roll": "2211CS010507",
+     "Name": "SAGGU SHIVA MANISH REDDY",
+     "EmailId": "2211CS010507@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-32",
+     "Roll": "2211CS010511",
+     "Name": "Sakinam Akshay Kumar",
+     "EmailId": "2211CS010511@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-33",
+     "Roll": "2211CS010547",
+     "Name": "SUBHAPREET PATRO",
+     "EmailId": "2211CS010547@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-34",
+     "Roll": "2211CS010605",
+     "Name": "YALLA JNAN DEVİ SATYA PRAS",
+     "EmailId": "2211CS010605@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-35",
+     "Roll": "2211CS010629",
+     "Name": "MAMILLAPALLI TEJASWINI",
+     "EmailId": "2211CS010629@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7A-36",
+     "Roll": "2211CS010673",
+     "Name": "GUNDA PRASHANTH",
+     "EmailId": "2211CS010673@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-1",
+     "Roll": "2211CS010001",
+     "Name": "A HARSHAVARDHAN REDDY",
+     "EmailId": "2211CS010001@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-2",
+     "Roll": "2211CS010006",
+     "Name": "INAPAGOLLA HARSHITH",
+     "EmailId": "2211CS010006@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-3",
+     "Roll": "2211CS010008",
+     "Name": "AILENI GADILA BHARATH RAO",
+     "EmailId": "2211CS010008@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-4",
+     "Roll": "2211CS010009",
+     "Name": "ADI SAI TEJA",
+     "EmailId": "2211CS010009@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-5",
+     "Roll": "2211CS010012",
+     "Name": "AKULA VINAY KANTH",
+     "EmailId": "2211CS010012@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-6",
+     "Roll": "2211CS010013",
+     "Name": "AKULA YAMINI SRUJANA",
+     "EmailId": "2211CS010013@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-7",
+     "Roll": "2211CS010018",
+     "Name": "ALTI MANISH REDDY",
+     "EmailId": "2211CS010018@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-8",
+     "Roll": "2211CS010022",
+     "Name": "ANANTULA ASHWINI",
+     "EmailId": "2211CS010022@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-9",
+     "Roll": "2211CS010026",
+     "Name": "ANNADI NIDHISH REDDY",
+     "EmailId": "2211CS010026@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-10",
+     "Roll": "2211CS010029",
+     "Name": "ARAHUL RAJ",
+     "EmailId": "2211CS010029@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-11",
+     "Roll": "2211CS010030",
+     "Name": "ARE AJAY",
+     "EmailId": "2211CS010030@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-12",
+     "Roll": "2211CS010031",
+     "Name": "A SUNKARI ABHINAYA",
+     "EmailId": "2211CS010031@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-13",
+     "Roll": "2211CS010037",
+     "Name": "B LAXMINARASIMHA",
+     "EmailId": "2211CS010037@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-14",
+     "Roll": "2211CS010041",
+     "Name": "B VISHNU",
+     "EmailId": "2211CS010041@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-15",
+     "Roll": "2211CS010049",
+     "Name": "BAIREDDY ANJALI",
+     "EmailId": "2211CS010049@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-16",
+     "Roll": "2211CS010050",
+     "Name": "BAJARI KAMALAKAR REDDY",
+     "EmailId": "2211CS010050@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-17",
+     "Roll": "2211CS010054",
+     "Name": "YERUVA KESAVA VAMSIREDDY",
+     "EmailId": "2211CS010054@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-18",
+     "Roll": "2211CS010055",
+     "Name": "BANDARI BHARATH RAJ",
+     "EmailId": "2211CS010055@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-19",
+     "Roll": "2211CS010058",
+     "Name": "BANDIKE SAI MOHITH",
+     "EmailId": "2211CS010058@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-20",
+     "Roll": "2211CS010061",
+     "Name": "BASIREDDY GARI LEENASRI REEDDY",
+     "EmailId": "2211CS010061@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-21",
+     "Roll": "2211CS010063",
+     "Name": "GOLLAPALLY SAL VARUN",
+     "EmailId": "2211CS010063@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-22",
+     "Roll": "2211CS010070",
+     "Name": "BETHI ANISH",
+     "EmailId": "2211CS010070@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-23",
+     "Roll": "2211CS010073",
+     "Name": "BOBOLI SUMANTH",
+     "EmailId": "2211CS010073@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-24",
+     "Roll": "2211CS010076",
+     "Name": "BODIGAM SHASHINATH REDDY",
+     "EmailId": "2211CS010076@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-25",
+     "Roll": "2211CS010078",
+     "Name": "BOJJA INDU KARTHIK REDDY",
+     "EmailId": "2211CS010078@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-26",
+     "Roll": "2211CS010083",
+     "Name": "BOMMAGANI SANTHOSH",
+     "EmailId": "2211CS010083@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-27",
+     "Roll": "2211CS010084",
+     "Name": "BOMMAKANTI KESHAV",
+     "EmailId": "2211CS010084@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-28",
+     "Roll": "2211CS010085",
+     "Name": "BOMMINENI THARUN REDDY",
+     "EmailId": "2211CS010085@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-29",
+     "Roll": "2211CS010089",
+     "Name": "BORAVELLI PRASHANTH REDDY",
+     "EmailId": "2211CS010089@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-30",
+     "Roll": "2211CS010090",
+     "Name": "BOREDA SHARAN",
+     "EmailId": "2211CS010090@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-31",
+     "Roll": "2211CS010295",
+     "Name": "KOLLA SAI KRISHNA",
+     "EmailId": "2211CS010295@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-32",
+     "Roll": "2211CS010296",
+     "Name": "KOLLAREDDY JAYA LAXMI",
+     "EmailId": "2211CS010296@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-33",
+     "Roll": "2211CS010297",
+     "Name": "KOLLEPARA HANU SATYA BHARADWAJ",
+     "EmailId": "2211CS010297@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-34",
+     "Roll": "2211CS010298",
+     "Name": "KONDRAGUNTA BHARATH",
+     "EmailId": "2211CS010298@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-35",
+     "Roll": "2211CS010324",
+     "Name": "LOMADA GUNA VARDHAN REDDY",
+     "EmailId": "2211CS010324@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-36",
+     "Roll": "2211CS010337",
+     "Name": "MACHARLA ABHIRAM",
+     "EmailId": "2211CS010337@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-37",
+     "Roll": "2211CS010347",
+     "Name": "MALE BHAVANA REDDY",
+     "EmailId": "2211CS010347@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-38",
+     "Roll": "2211CS010361",
+     "Name": "MARELLA LIKITHA SRI VAISHNA",
+     "EmailId": "2211CS010361@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-39",
+     "Roll": "2211CS010369",
+     "Name": "MEESARAGANDA SRIJANI",
+     "EmailId": "2211CS010369@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-40",
+     "Roll": "2211CS010380",
+     "Name": "MOPARTHI AMULYA CHOWAR",
+     "EmailId": "2211CS010380@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-41",
+     "Roll": "2211CS010405",
+     "Name": "NAGALLAPATI SUMANTH",
+     "EmailId": "2211CS010405@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-42",
+     "Roll": "2211CS010421",
+     "Name": "NUKALA VENKATA SIVA SAI PA",
+     "EmailId": "2211CS010421@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-43",
+     "Roll": "2211CS010430",
+     "Name": "PADALA PRASOON GOUD",
+     "EmailId": "2211CS010430@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7 B-44",
+     "Roll": "2211CS010450",
+     "Name": "PASULA SRI VALLI",
+     "EmailId": "2211CS010450@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-45",
+     "Roll": "2211CS010557",
+     "Name": "TANGELLAPALLI SANTHOSHI",
+     "EmailId": "2211CS010557@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-46",
+     "Roll": "2211CS010564",
+     "Name": "THATHI REDDY BALA AKSHITH",
+     "EmailId": "2211CS010564@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-47",
+     "Roll": "2211CS010568",
+     "Name": "TULA ROSHINI",
+     "EmailId": "2211CS010568@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-48",
+     "Roll": "2211CS010596",
+     "Name": "VIKAS SUTHAR",
+     "EmailId": "2211CS010596@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-49",
+     "Roll": "2211CS010601",
+     "Name": "Y UTTEJ",
+     "EmailId": "2211CS010601@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-50",
+     "Roll": "2211CS010619",
+     "Name": "DIYYANSH JAIN",
+     "EmailId": "2211CS010619@mallareddyuniversity.ac.in"
+    },
+    {
+     "SemCode": "G7B-51",
+     "Roll": "2211CS010620",
+     "Name": "DUBBAKA PRASANNA",
+     "EmailId": "2211CS010620@mallareddyuniversity.ac.in"
+    }
+   ]
